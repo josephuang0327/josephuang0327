@@ -7,12 +7,10 @@
         Just finished military service and now look to work in the field of technology<br>
         Free to contact me if you're interested.<br>
     </i><br>
- <>
+ </p>
 
 
 
-
-### Hi there 👋
 
 <!--
 **josephuang0327/josephuang0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
