@@ -3,9 +3,9 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Vladimir.<br>
-        Currently learning to walk in ML/DL without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        I'm Wei Chieh Huang.<br>
+        Just finished military service and now look to work in the field of technology<br>
+        Free to contact me if you're interested.<br>
     </i><br>
  <>
 
